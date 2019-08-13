@@ -57,8 +57,10 @@ mlflow ui
 
 ## Module 2
 
+### Objective 
 A key componet of MLflow is reproducibility, in order to verify that you will be running someone elses MLflow project.
 
+#### Steps
 
 1. Running experiment from github  
 
@@ -87,8 +89,10 @@ https://github.com/mlflow/mlflow/tree/master/examples/docker
 
 ## Module 3
 
+### Objective 
 MLflow gives us an easy way to provide an endpoint for our model to give live predictions. In this module we will stand up a server to accept REStful post requests to provide an output.
 
+#### Steps
 
 1. Make REST endpoint to hit your service
 
