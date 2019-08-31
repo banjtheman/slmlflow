@@ -9,8 +9,8 @@ https://thestrangeloop.com/2019/scalable-machine-learning-pipelines-with-mlflow.
 ```
 pip install mlflow
 ```
-install conda from https://docs.conda.io/en/latest/miniconda.html
-Docker https://docs.docker.com/install/overview/
+* Conda from https://docs.conda.io/en/latest/miniconda.html
+* Docker https://docs.docker.com/install/overview/
 
 ## Module 1
 
