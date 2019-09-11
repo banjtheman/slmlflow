@@ -17,7 +17,7 @@ pip install mlflow
 ### Objective 
 Get famailir with how an MLflow project is set up
 
-We will be going through the wine-quailty example which attempts to create a model that can predict the quilty of wine given
+We will be going through the wine-quailty example (mlflow/examples/sklearn_elasticnet_wine/) which attempts to create a model that can predict the quilty of wine given
 input features.
 
 For this module we will...
