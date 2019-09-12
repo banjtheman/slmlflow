@@ -77,7 +77,7 @@ In order for someone else to run your experiment, we will need to push it to git
 * run someone elses project 
 
 ```
-mlflow run git@github.com:mlflow/mlflow-example.git -P alpha=0.5
+mlflow run https://github.com/mlflow/mlflow-example.git -P alpha=0.5
 ```
 
 Can you run 5 other experiments? View the results in Tracking UI
