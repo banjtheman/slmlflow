@@ -27,6 +27,11 @@ For this module we will...
 
 #### Steps
 
+0. Clone mlflow repo
+https://github.com/mlflow/mlflow
+
+
+
 1. Observe our Data
 
 The data we will be working with is in the wine-quailty.csv file which contains 11 features, we will be trying to predict quailty based on the other 10 features.
