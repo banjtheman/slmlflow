@@ -30,6 +30,7 @@ For this module we will...
 0. Clone mlflow repo
 https://github.com/mlflow/mlflow
 
+https://www.mlflow.org/docs/latest/tutorial.html
 
 
 1. Observe our Data
