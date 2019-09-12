@@ -7,7 +7,7 @@ https://thestrangeloop.com/2019/scalable-machine-learning-pipelines-with-mlflow.
 ## Prereqs
 
 ```
-pip install mlflow
+pip install mlflow sklearn
 ```
 * Conda from https://docs.conda.io/en/latest/miniconda.html
 * Docker https://docs.docker.com/install/overview/
